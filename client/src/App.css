@@ -1,0 +1,31 @@
+nav {
+  background-color: blueviolet;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  padding: 0 10px;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  list-style-type: none;
+}
+
+.link {
+  text-decoration: none;
+  padding: 10px;
+  font-size: 20px;
+  color: white;
+}
+
+.link:hover {
+  text-decoration: none;
+  color: white;
+  background-color: #222;
+}
