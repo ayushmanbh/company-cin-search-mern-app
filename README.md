@@ -1,4 +1,4 @@
-# Company CIN no. Search and save in database
+# Company CIN Search and save in database
 
 A Full stack web app to search companies and their cin no.
 
